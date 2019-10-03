@@ -3,7 +3,7 @@
             <persistenceUnit name="main">
                 <connection>
                     <connectionString>
-                        mysql://mariadb.paasproject.svc.cluster.local/paasproject;structure=create;userName=userVLK;password=pM5OIodnGiUxnujC
+                        mysql://mariadb.tp-devops.svc.cluster.local/tpdevops;structure=create;userName=appUser;password=appSecret
                     </connectionString>
                 </connection>
             </persistenceUnit>
