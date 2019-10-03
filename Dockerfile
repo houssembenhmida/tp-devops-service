@@ -4,7 +4,7 @@ RUN ls -al /home
 RUN ls -al /home/centos
 RUN ls -al /home/centos/project
 RUN rm /home/centos/project/Dockerfile
-RUN rm /home/centos/project/Jenkinsfile
+RUN rm /home/centos/project/upa.xml
 RUN ls -al /home/centos/project
 RUN chgrp -R 0 /home/ && \
     chmod -R g=u /home/

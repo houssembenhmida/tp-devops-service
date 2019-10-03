@@ -3,6 +3,6 @@
     <scan types="net.vpc.app.**"/>
     <scan types="tn.houssem.**"/>
     <include>
-        <file path="/etc/PaasProject/config/upa.xml" failSafe="true"/>
+        <file path="/etc/tpDevops/config/upa.xml" failSafe="true"/>
     </include>
 </upa>
