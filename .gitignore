@@ -1,0 +1,5 @@
+/plugins/main/main-model/target/
+/plugins/main/main-service/target/
+/app/PaasProject-app-service/target/
+/plugins/main/main-web/target/
+/app/PaasProject-app-web/target/
